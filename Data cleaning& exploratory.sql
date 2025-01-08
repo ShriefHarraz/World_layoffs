@@ -1,6 +1,5 @@
 Select *
-from layoffs
-where COMPANY =	'Springlane';
+from layoffs;
 
 ---- Make a copy of the dataset----
 
